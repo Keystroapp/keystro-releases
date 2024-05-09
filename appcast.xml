@@ -10,7 +10,10 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B3/keystro-0.2.1+3-macos.zip" length="43457929" type="application/octet-stream" sparkle:edSignature="WChSnlBxbX6Bss9b77BrnluEM9k05SKCx/c9iAFkfo2+HAyoR5B2R14HlxfzR+iPRJ/lK5lTwLZXzrtb7jmvCw=="/>
+            <enclosure
+                url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B3/keystro-0.2.1+3-macos.zip"
+                length="43457929" type="application/octet-stream"
+                sparkle:edSignature="WChSnlBxbX6Bss9b77BrnluEM9k05SKCx/c9iAFkfo2+HAyoR5B2R14HlxfzR+iPRJ/lK5lTwLZXzrtb7jmvCw==" />
         </item>
         <item>
             <title>Version 0.2.1+3</title>
@@ -18,9 +21,10 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Thu, 05 Sep 2024 15:05:34 +0700</pubDate>
-            <enclosure url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B3/keystro-0.2.1+3-windows-setup.exe"
+            <enclosure
+                url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B3/keystro-0.2.1+3-windows-setup.exe"
                 sparkle:version="0.2.1+3"
-                sparkle:dsaSignature="MEUCIFrDNKCqxAx6KKk1zI3AyPn9EfsZYx3gCAEqswyHYlWIAiEAkr06UJB+dzNchKfwARoeKR+AnknlsRsBRrr2XJrrV+8="
+                sparkle:dsaSignature="MEYCIQDJSNFZDGRgEJb47D3k29xgUnK5k4TAU4JxMW2AjfC3twIhALtBqEPffYiBD5ZjWTRbaWsHMUHuS0+O2qKb/9aa19b5"
                 length="0"
                 sparkle:os="windows"
                 type="application/octet-stream" />
@@ -31,7 +35,10 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B2/keystro-0.2.1+2-macos.zip" length="43457816" type="application/octet-stream" sparkle:edSignature="8aNoTRHLyFNNmN1PWo/zotSCsu5l10G3LHiQfrWr6AaAypxpr7VfT0prmpmDXa8cmSP50o56LX8miXZJQljVBg=="/>
+            <enclosure
+                url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B2/keystro-0.2.1+2-macos.zip"
+                length="43457816" type="application/octet-stream"
+                sparkle:edSignature="8aNoTRHLyFNNmN1PWo/zotSCsu5l10G3LHiQfrWr6AaAypxpr7VfT0prmpmDXa8cmSP50o56LX8miXZJQljVBg==" />
         </item>
         <item>
             <title>Version 0.2.1+2</title>
@@ -39,9 +46,10 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Thu, 05 Sep 2024 12:00:00 +0700</pubDate>
-            <enclosure url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B2/keystro-0.2.1+2-windows-setup.exe"
+            <enclosure
+                url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B2/keystro-0.2.1+2-windows-setup.exe"
                 sparkle:version="0.2.1+2"
-                sparkle:dsaSignature="MEUCIQCk9tJMYRejFQ564WTB0YtSqNB9twX7Rdl/TliScCwz/QIgZx42oGzFbbzlA47SeSCNCrd4V1K92sMcHYQUF2pKKno="
+                sparkle:dsaSignature="MEUCIQDeTUwrUjkZjmRSM5ogCNnRQD7frHxId5ymqDQbghU4hAIgfKPdrI1RHq6eYpjHEt9CDszLSEPAG/MGSsG2vdsSNsM="
                 length="0"
                 sparkle:os="windows"
                 type="application/octet-stream" />
