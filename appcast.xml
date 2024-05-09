@@ -5,6 +5,14 @@
         <description>Most recent updates to auto_updater_example</description>
         <language>en</language>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 09 May 2024 15:45:34 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B3/keystro-0.2.1+3-macos.zip" length="43457929" type="application/octet-stream" sparkle:edSignature="WChSnlBxbX6Bss9b77BrnluEM9k05SKCx/c9iAFkfo2+HAyoR5B2R14HlxfzR+iPRJ/lK5lTwLZXzrtb7jmvCw=="/>
+        </item>
+        <item>
             <title>Version 0.2.1+3</title>
             <sparkle:releaseNotesLink>
                 https://your_domain/your_path/release_notes.html
@@ -16,6 +24,14 @@
                 length="0"
                 sparkle:os="windows"
                 type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 09 May 2024 15:38:57 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B2/keystro-0.2.1+2-macos.zip" length="43457816" type="application/octet-stream" sparkle:edSignature="8aNoTRHLyFNNmN1PWo/zotSCsu5l10G3LHiQfrWr6AaAypxpr7VfT0prmpmDXa8cmSP50o56LX8miXZJQljVBg=="/>
         </item>
         <item>
             <title>Version 0.2.1+2</title>
