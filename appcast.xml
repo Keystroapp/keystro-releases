@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>auto_updater_example</title>
+        <description>Most recent updates to auto_updater_example</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.2.1+3</title>
+            <sparkle:releaseNotesLink>
+                https://your_domain/your_path/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Thu, 05 Sep 2024 15:05:34 +0700</pubDate>
+            <enclosure url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B3/keystro-0.2.1+3-windows-setup.exe"
+                sparkle:version="0.2.1+3"
+                sparkle:dsaSignature="MEUCIFrDNKCqxAx6KKk1zI3AyPn9EfsZYx3gCAEqswyHYlWIAiEAkr06UJB+dzNchKfwARoeKR+AnknlsRsBRrr2XJrrV+8="
+                length="0"
+                sparkle:os="windows"
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 0.2.1+2</title>
+            <sparkle:releaseNotesLink>
+                https://your_domain/your_path/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Thu, 05 Sep 2024 12:00:00 +0700</pubDate>
+            <enclosure url="https://github.com/SeeKeys/seekeys-releases/releases/download/v0.2.1%2B2/keystro-0.2.1+2-windows-setup.exe"
+                sparkle:version="0.2.1+2"
+                sparkle:dsaSignature="MEUCIQCk9tJMYRejFQ564WTB0YtSqNB9twX7Rdl/TliScCwz/QIgZx42oGzFbbzlA47SeSCNCrd4V1K92sMcHYQUF2pKKno="
+                length="0"
+                sparkle:os="windows"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
