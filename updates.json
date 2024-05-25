@@ -1,8 +1,14 @@
 [
   {
+    "version": "0.0.7+7",
+    "buildNumber": 7,
+    "updated": "2024-05-25T03:26:00Z",
+    "changelog": "Fixed issues with multi display and display scaling on macOS"
+  },
+  {
     "version": "0.0.5+5",
     "buildNumber": 5,
-    "updated": "2024-05-24T13:33:00Z",
+    "updated": "2024-05-24T06:33:00Z",
     "changelog": "Added Discord link"
   },
   {
