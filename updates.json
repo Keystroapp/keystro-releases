@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.0.9+9",
+    "buildNumber": 9,
+    "updated": "2024-05-26T10:31:00Z",
+    "changelog": "Added paste button to input license, fixed Discord link visually"
+  },
+  {
+    "version": "0.0.8+8",
+    "buildNumber": 8,
+    "updated": "2024-05-25T04:04:00Z",
+    "changelog": "Added option to only show shortcut keystrokes, fixed dead discord link"
+  },
+  {
     "version": "0.0.7+7",
     "buildNumber": 7,
     "updated": "2024-05-25T03:26:00Z",
