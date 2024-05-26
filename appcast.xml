@@ -8,7 +8,7 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-            <enclosure url="keystro.zip" length="45982352" type="application/octet-stream" sparkle:edSignature="o3psUedQKX5TrWAV6B8Ygsyfy9/ABWbrZk+Gp9BSpqJkwNqoTqC/9mMA6I+0KE5YiYVRGhM2JOFJODVeqLW0AQ=="/>
+            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/latest/download/keystro.zip" length="45982352" type="application/octet-stream" sparkle:edSignature="o3psUedQKX5TrWAV6B8Ygsyfy9/ABWbrZk+Gp9BSpqJkwNqoTqC/9mMA6I+0KE5YiYVRGhM2JOFJODVeqLW0AQ=="/>
         </item>
     </channel>
 </rss>
