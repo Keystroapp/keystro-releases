@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>keystro</title>
+        <item>
+            <title>0.0.10</title>
+            <pubDate>Sun, 26 May 2024 20:30:26 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
+            <enclosure url="keystro.zip" length="45982352" type="application/octet-stream" sparkle:edSignature="o3psUedQKX5TrWAV6B8Ygsyfy9/ABWbrZk+Gp9BSpqJkwNqoTqC/9mMA6I+0KE5YiYVRGhM2JOFJODVeqLW0AQ=="/>
+        </item>
+    </channel>
+</rss>
