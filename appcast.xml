@@ -2,14 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>keystro</title>
-        <item>
+<!--         <item>
             <title>0.0.16</title>
             <pubDate>Wed, 05 Jun 2024 8:43:41 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.0.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v0.0.16/keystro.zip" length="44736046" type="application/octet-stream" sparkle:edSignature="Hp6XTfMpMPkqO7TZLygjdj/smCfChVLD7Ju7iHs6xX0rkeZ3EcWnBqYgaNesDNWTYujr5sn4ntTOnKHCB+EHDA=="/>
-        </item>
+        </item> -->
         <item>
             <title>0.0.14</title>
             <pubDate>Sun, 02 Jun 2024 8:35:31 +0000</pubDate>
