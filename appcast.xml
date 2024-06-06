@@ -2,14 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>keystro</title>
-<!--         <item>
-            <title>0.0.16</title>
-            <pubDate>Wed, 05 Jun 2024 8:43:41 +0000</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.0.16</sparkle:shortVersionString>
+        <item>
+            <title>0.0.17</title>
+            <pubDate>Thu, 06 Jun 2024 7:24:00 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.0.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v0.0.16/keystro.zip" length="44736046" type="application/octet-stream" sparkle:edSignature="Hp6XTfMpMPkqO7TZLygjdj/smCfChVLD7Ju7iHs6xX0rkeZ3EcWnBqYgaNesDNWTYujr5sn4ntTOnKHCB+EHDA=="/>
-        </item> -->
+            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v0.0.17/keystro.zip" length="44735809" type="application/octet-stream" sparkle:edSignature="dUpwtSkkUDga3a39Xijv3WBvwUGC9Xbv6Rt/iyasSA4ewSy76T3IioJFR1XlroVqB6t+9LRyjjpWQ9mh0Wc5Ag=="/>
+        </item>
         <item>
             <title>0.0.14</title>
             <pubDate>Sun, 02 Jun 2024 8:35:31 +0000</pubDate>
