@@ -3,6 +3,14 @@
     <channel>
         <title>keystro</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Tue, 03 Sep 2024 09:35:47 +0700</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.1.0/keystro.zip" length="46601219" type="application/octet-stream" sparkle:edSignature="A5moKn2HBpZDJYGBp4oL6GVESGPLz0HG5jX0cO5FHnJjh8h9Enj5TVHeGLxD8rCs8OE6x6NIQqrCzvPm3vkLAg=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 29 Jul 2024 21:18:23 +0700</pubDate>
             <sparkle:version>24</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.0.0/keystro.zip" length="46332736" type="application/octet-stream" sparkle:edSignature="5kz0X5yhQQnXjRjlkkb23e+8Spj00XwCVOoNfaOCBq2tr8X/PMwBFx8UayWkdyJXEjw0yBVhFYrLBJkAvKlBBw=="/>
-        </item>
-        <item>
-            <title>0.0.20</title>
-            <pubDate>Sat, 06 Jul 2024 11:15:11 +0000</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.0.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v0.0.20/keystro.zip" length="46330389" type="application/octet-stream" sparkle:edSignature="HRq/JHmm9+X8H/C3wcTv4Sw5+yYsY334VViWFEn7aTC1wL9OrS6I0Ym+XRAbYpVmYDgdI79vtHUorC/yAEPKDw=="/>
         </item>
     </channel>
 </rss>
