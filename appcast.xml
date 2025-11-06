@@ -3,6 +3,14 @@
     <channel>
         <title>keystro</title>
         <item>
+            <title>1.4.3</title>
+            <pubDate>Thu, 06 Nov 2025 08:26:40 +0700</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.4.3/keystro.zip" length="47622028" type="application/octet-stream" sparkle:edSignature="RN7n38PW3yHJaOPFK6jgzjyojTqsuZrq3Izn4lPGRf8sCQRMy1tT/1PoLRnCLeo0sbTbXLFCDEd+uu3R36I/AQ=="/>
+        </item>
+        <item>
             <title>1.4.1</title>
             <pubDate>Tue, 04 Nov 2025 07:42:21 +0700</pubDate>
             <sparkle:version>64</sparkle:version>
