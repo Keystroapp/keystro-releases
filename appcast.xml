@@ -3,6 +3,14 @@
     <channel>
         <title>keystro</title>
         <item>
+            <title>1.4.10</title>
+            <pubDate>Wed, 31 Dec 2025 18:56:39 +0700</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>1.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.4.10/keystro.zip" length="52852105" type="application/octet-stream" sparkle:edSignature="LeCd6ScA4PBIw0krrWtAmzOJE/e48Uh1VWDGT/FoAnRMZ5JVbYHZgUp9PL/Mu0wNNTCLWlzg8gDwG2fG9AQNDw=="/>
+        </item>
+        <item>
             <title>1.4.6</title>
             <pubDate>Thu, 13 Nov 2025 15:22:59 +0700</pubDate>
             <sparkle:version>69</sparkle:version>
@@ -17,30 +25,6 @@
             <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.4.3/keystro.zip" length="47622028" type="application/octet-stream" sparkle:edSignature="RN7n38PW3yHJaOPFK6jgzjyojTqsuZrq3Izn4lPGRf8sCQRMy1tT/1PoLRnCLeo0sbTbXLFCDEd+uu3R36I/AQ=="/>
-        </item>
-        <item>
-            <title>1.4.1</title>
-            <pubDate>Tue, 04 Nov 2025 07:42:21 +0700</pubDate>
-            <sparkle:version>64</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.4.1/keystro.zip" length="47619360" type="application/octet-stream" sparkle:edSignature="Bbk8DnGvt07uwcqh4li0axvDTNHVphsSqILM5ePODlhhNt6apBxpHJ4AmE8+5xFmR+F5t7So5n6aYpzWXFruDg=="/>
-        </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Sat, 01 Nov 2025 06:14:08 +0700</pubDate>
-            <sparkle:version>63</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.4.0/keystro.zip" length="47622809" type="application/octet-stream" sparkle:edSignature="LF8rVyerKc5T+pPafvGYXVlQrPLsncFW/QMsXA1fnlWB0gtHBYHYGqqi+HyrR0wRJy3P+/HGYc+/8zLomBsEBw=="/>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Fri, 24 Oct 2025 16:28:13 +0700</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.3.1/keystro.zip" length="51452647" type="application/octet-stream" sparkle:edSignature="VdETfkZzu9CF4gXRvabsgwG18j0usPIJm6hKzCN3QTlFkqKKd1jzJJNcW4mDRyDdreU8MJMii5FcDwCFYgqzBQ=="/>
         </item>
         <item>
             <title>1.1.11</title>
