@@ -3,6 +3,23 @@
     <channel>
         <title>keystro</title>
         <item>
+            <title>1.5.21</title>
+            <pubDate>Tue, 24 Nov 2026 08:20:26 +0700</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>1.5.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li>Scroll indicators now light up for up, down, left, and right separately, with a glow that fades out</li>
+  <li>Vertical scroll indicator gets its own theme color</li>
+  <li>Added overlay position modes: center of screen and center of focused window</li>
+  <li>Mouse shape is now picked from a row of shape previews</li>
+  <li>Fixed theme color tinting on Dimple and Topcast keycaps</li>
+  <li>Back and Forward mouse buttons re-press cleanly while their highlight is fading</li>
+  <li>Dropdowns keep their accent color while the popup menu is open</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/Keystroapp/keystro-releases/releases/download/v1.5.21/keystro.zip" length="53958127" type="application/octet-stream" sparkle:edSignature="GhOzFSz9mnoSzuDL9+NviZPRcI0IBq3gqQGpXyxdS0D17MfFQz7Zc0AvkS5fx50Q+CWvAOdBxkKEZpI1bHW8CQ=="/>
+        </item>
+        <item>
             <title>1.5.18</title>
             <pubDate>Wed, 12 Aug 2026 18:49:41 +0700</pubDate>
             <sparkle:version>108</sparkle:version>
